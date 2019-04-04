@@ -1,2 +1,2 @@
-# ethan.github.io
-ethan.github.io
+# ethanpub.github.io
+ethanpub.github.io
